@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#4CAF50"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <!-- Recycle symbol - simplified arrow 1 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,30 L54,50 L60,50 L60,36 L65,50 L60,50 L60,50 L54,50 L54,30Z"
+        android:strokeWidth="0" />
+    <!-- Arrow 2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M38,60 L54,50 L50,45 L38,52 L44,42 L50,45 L50,45 L54,50 L38,60Z"
+        android:strokeWidth="0" />
+    <!-- Arrow 3 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,60 L54,50 L58,45 L70,52 L64,42 L58,45 L58,45 L54,50 L70,60Z"
+        android:strokeWidth="0" />
+    <!-- Center dot -->
+    <path
+        android:fillColor="#4FC3F7"
+        android:pathData="M54,46m-3,0a3,3 0,1 1,6 0a3,3 0,1 1,-6 0" />
+</vector>
